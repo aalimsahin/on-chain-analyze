@@ -1,0 +1,1927 @@
+[
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 15240.278641,
+        "time": "2022-04-22T18:14:33Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 15313.882038,
+        "time": "2022-04-22T18:13:01Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 15387.52345,
+        "time": "2022-04-22T18:11:33Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 15461.185029,
+        "time": "2022-04-22T18:09:53Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 15608.342667,
+        "time": "2022-04-22T18:07:46Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 15682.22939,
+        "time": "2022-04-22T18:01:52Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 15755.894928,
+        "time": "2022-04-22T17:59:55Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 15899.215955,
+        "time": "2022-04-22T17:58:17Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 15977.67885,
+        "time": "2022-04-22T17:56:33Z"
+    },
+    {
+        "address": "0x5d7c19659c548a1459a86a380e59cfdf123c9e2a",
+        "value": 328.967606,
+        "time": "2022-04-22T17:49:28Z"
+    },
+    {
+        "address": "0x9067f9c0a1f8ce8d1b8d6b69be3eaad1d5e01a8c",
+        "value": 10504.353238,
+        "time": "2022-04-22T10:56:09Z"
+    },
+    {
+        "address": "0x9067f9c0a1f8ce8d1b8d6b69be3eaad1d5e01a8c",
+        "value": 10569.467333,
+        "time": "2022-04-22T10:54:36Z"
+    },
+    {
+        "address": "0x9067f9c0a1f8ce8d1b8d6b69be3eaad1d5e01a8c",
+        "value": 10634.747366,
+        "time": "2022-04-22T10:52:55Z"
+    },
+    {
+        "address": "0x9067f9c0a1f8ce8d1b8d6b69be3eaad1d5e01a8c",
+        "value": 10700.339379,
+        "time": "2022-04-22T10:52:04Z"
+    },
+    {
+        "address": "0x9067f9c0a1f8ce8d1b8d6b69be3eaad1d5e01a8c",
+        "value": 10766.235395,
+        "time": "2022-04-22T10:44:46Z"
+    },
+    {
+        "address": "0x9067f9c0a1f8ce8d1b8d6b69be3eaad1d5e01a8c",
+        "value": 10832.296759,
+        "time": "2022-04-22T10:43:29Z"
+    },
+    {
+        "address": "0x9067f9c0a1f8ce8d1b8d6b69be3eaad1d5e01a8c",
+        "value": 10882.42715,
+        "time": "2022-04-22T10:41:28Z"
+    },
+    {
+        "address": "0x543123da55aea5160cff8b19553580a979f10c37",
+        "value": 234,
+        "time": "2022-04-21T23:46:05Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 15960.966505,
+        "time": "2022-04-21T18:11:17Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 16115.079712,
+        "time": "2022-04-21T18:09:33Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 16191.484179,
+        "time": "2022-04-21T18:08:09Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 16308.124224,
+        "time": "2022-04-21T18:06:50Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 16423.874458,
+        "time": "2022-04-21T18:04:48Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 16546.523558,
+        "time": "2022-04-21T18:03:26Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 16647.652824,
+        "time": "2022-04-21T18:02:00Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 16771.053539,
+        "time": "2022-04-21T18:00:12Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 16929.109687,
+        "time": "2022-04-21T17:57:31Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 17042.486362,
+        "time": "2022-04-21T17:54:35Z"
+    },
+    {
+        "address": "0x002ad2250a485662db2e3d1d8c0930bb7c740791",
+        "value": 0.023105,
+        "time": "2022-04-21T17:54:07Z"
+    },
+    {
+        "address": "0xe5403650d87c098b6720584996ad9c0b062feb8c",
+        "value": 933.5229,
+        "time": "2022-04-21T17:51:31Z"
+    },
+    {
+        "address": "0xe5403650d87c098b6720584996ad9c0b062feb8c",
+        "value": 942.4876,
+        "time": "2022-04-21T17:50:01Z"
+    },
+    {
+        "address": "0xe5403650d87c098b6720584996ad9c0b062feb8c",
+        "value": 951.4502,
+        "time": "2022-04-21T17:46:21Z"
+    },
+    {
+        "address": "0x002ad2250a485662db2e3d1d8c0930bb7c740791",
+        "value": 231.051209,
+        "time": "2022-04-21T17:19:03Z"
+    },
+    {
+        "address": "0x543123da55aea5160cff8b19553580a979f10c37",
+        "value": 250,
+        "time": "2022-04-21T17:13:20Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 10951.085961,
+        "time": "2022-04-21T11:08:22Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 11019.370722,
+        "time": "2022-04-21T10:52:30Z"
+    },
+    {
+        "address": "0x543123da55aea5160cff8b19553580a979f10c37",
+        "value": 175,
+        "time": "2022-04-21T09:58:51Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 11087.971129,
+        "time": "2022-04-21T08:51:16Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 11156.900906,
+        "time": "2022-04-21T08:33:08Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 11227.493137,
+        "time": "2022-04-21T07:47:51Z"
+    },
+    {
+        "address": "0x002ad2250a485662db2e3d1d8c0930bb7c740791",
+        "value": 0.020039,
+        "time": "2022-04-21T07:42:15Z"
+    },
+    {
+        "address": "0x002ad2250a485662db2e3d1d8c0930bb7c740791",
+        "value": 200.391933,
+        "time": "2022-04-21T07:41:37Z"
+    },
+    {
+        "address": "0x002ad2250a485662db2e3d1d8c0930bb7c740791",
+        "value": 203.99402,
+        "time": "2022-04-21T07:40:39Z"
+    },
+    {
+        "address": "0x002ad2250a485662db2e3d1d8c0930bb7c740791",
+        "value": 207.564548,
+        "time": "2022-04-21T07:39:40Z"
+    },
+    {
+        "address": "0x002ad2250a485662db2e3d1d8c0930bb7c740791",
+        "value": 211.006024,
+        "time": "2022-04-21T07:38:52Z"
+    },
+    {
+        "address": "0x002ad2250a485662db2e3d1d8c0930bb7c740791",
+        "value": 215.361171,
+        "time": "2022-04-21T07:38:06Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 11297.827555,
+        "time": "2022-04-21T07:36:53Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 11382.133798,
+        "time": "2022-04-21T07:33:37Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 11452.728184,
+        "time": "2022-04-21T07:26:00Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 11514.08484,
+        "time": "2022-04-21T07:24:59Z"
+    },
+    {
+        "address": "0x543123da55aea5160cff8b19553580a979f10c37",
+        "value": 75,
+        "time": "2022-04-20T22:33:33Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 17093.106795,
+        "time": "2022-04-20T18:26:57Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 17249.056732,
+        "time": "2022-04-20T18:24:43Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 17342.483007,
+        "time": "2022-04-20T17:59:16Z"
+    },
+    {
+        "address": "0x5d7c19659c548a1459a86a380e59cfdf123c9e2a",
+        "value": 505.69134,
+        "time": "2022-04-20T17:58:00Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 17495.594868,
+        "time": "2022-04-20T17:57:48Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 17575.413421,
+        "time": "2022-04-20T17:56:04Z"
+    },
+    {
+        "address": "0x5d7c19659c548a1459a86a380e59cfdf123c9e2a",
+        "value": 514.323886,
+        "time": "2022-04-20T17:54:30Z"
+    },
+    {
+        "address": "0xe5403650d87c098b6720584996ad9c0b062feb8c",
+        "value": 1875.9455,
+        "time": "2022-04-20T17:53:11Z"
+    },
+    {
+        "address": "0xe5403650d87c098b6720584996ad9c0b062feb8c",
+        "value": 1875.9591,
+        "time": "2022-04-20T17:50:17Z"
+    },
+    {
+        "address": "0xe5dfe6c0fb490fc9e2843cd8c2f99a21b624d0cd",
+        "value": 7589.592676,
+        "time": "2022-04-20T13:33:23Z"
+    },
+    {
+        "address": "0xea1cc097a0ca8e572a541ab096b5c4ba0298244a",
+        "value": 7593.196825,
+        "time": "2022-04-20T13:25:41Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 9112.661239,
+        "time": "2022-04-20T13:24:36Z"
+    },
+    {
+        "address": "0x6301a687ab4b0362d09fc08fa44684ef70ba5317",
+        "value": 60.592202,
+        "time": "2022-04-20T08:49:20Z"
+    },
+    {
+        "address": "0xea1cc097a0ca8e572a541ab096b5c4ba0298244a",
+        "value": 1191,
+        "time": "2022-04-20T05:05:29Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 3000,
+        "time": "2022-04-20T04:58:45Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 794.743,
+        "time": "2022-04-20T04:49:48Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 10885.700713,
+        "time": "2022-04-20T04:33:21Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 10953.624175,
+        "time": "2022-04-20T04:32:01Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 11022.005722,
+        "time": "2022-04-20T04:30:33Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 10705.876133,
+        "time": "2022-04-20T04:18:57Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 10772.809946,
+        "time": "2022-04-20T04:13:22Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 10840.044244,
+        "time": "2022-04-20T04:12:10Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 10908.512913,
+        "time": "2022-04-20T04:10:50Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 9463.047282,
+        "time": "2022-04-20T04:09:33Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 1999.8,
+        "time": "2022-04-20T03:49:36Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 16970.238805,
+        "time": "2022-04-20T02:32:57Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 17127.999658,
+        "time": "2022-04-20T02:26:56Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 17182.878959,
+        "time": "2022-04-20T02:16:33Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 70.979953,
+        "time": "2022-04-20T00:40:19Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 71.825608,
+        "time": "2022-04-20T00:30:46Z"
+    },
+    {
+        "address": "0xb5a3ebda54c8ea7d93dc8746d168a0b57f72536b",
+        "value": 40.070834,
+        "time": "2022-04-20T00:03:26Z"
+    },
+    {
+        "address": "0x164c3153926c7c5335e173579666cab1e36a495d",
+        "value": 1035,
+        "time": "2022-04-19T23:20:34Z"
+    },
+    {
+        "address": "0x164c3153926c7c5335e173579666cab1e36a495d",
+        "value": 954.3229,
+        "time": "2022-04-19T22:46:23Z"
+    },
+    {
+        "address": "0x164c3153926c7c5335e173579666cab1e36a495d",
+        "value": 709,
+        "time": "2022-04-19T22:14:03Z"
+    },
+    {
+        "address": "0x164c3153926c7c5335e173579666cab1e36a495d",
+        "value": 709,
+        "time": "2022-04-19T22:10:39Z"
+    },
+    {
+        "address": "0x164c3153926c7c5335e173579666cab1e36a495d",
+        "value": 709.4,
+        "time": "2022-04-19T22:08:59Z"
+    },
+    {
+        "address": "0xa3872bb17bed808915c5594814d127864e310b1b",
+        "value": 7869.022061,
+        "time": "2022-04-19T21:06:24Z"
+    },
+    {
+        "address": "0xa3872bb17bed808915c5594814d127864e310b1b",
+        "value": 7868.668167,
+        "time": "2022-04-19T21:04:52Z"
+    },
+    {
+        "address": "0x29ac1ace40f6051758739276a8aa152a42fbf544",
+        "value": 77.145914,
+        "time": "2022-04-19T18:12:11Z"
+    },
+    {
+        "address": "0x4f23b97445d217450603e46c512aa827f72b97f7",
+        "value": 196.594437,
+        "time": "2022-04-19T17:52:24Z"
+    },
+    {
+        "address": "0xe5403650d87c098b6720584996ad9c0b062feb8c",
+        "value": 1899.5,
+        "time": "2022-04-19T17:51:34Z"
+    },
+    {
+        "address": "0x4f23b97445d217450603e46c512aa827f72b97f7",
+        "value": 208.748231,
+        "time": "2022-04-19T17:51:24Z"
+    },
+    {
+        "address": "0x4f23b97445d217450603e46c512aa827f72b97f7",
+        "value": 212.801557,
+        "time": "2022-04-19T17:46:33Z"
+    },
+    {
+        "address": "0x4f23b97445d217450603e46c512aa827f72b97f7",
+        "value": 220.673444,
+        "time": "2022-04-19T17:40:31Z"
+    },
+    {
+        "address": "0x4f23b97445d217450603e46c512aa827f72b97f7",
+        "value": 197.050178,
+        "time": "2022-04-19T17:34:07Z"
+    },
+    {
+        "address": "0x4f23b97445d217450603e46c512aa827f72b97f7",
+        "value": 221.29833,
+        "time": "2022-04-19T17:12:45Z"
+    },
+    {
+        "address": "0x4f23b97445d217450603e46c512aa827f72b97f7",
+        "value": 213.402248,
+        "time": "2022-04-19T17:11:31Z"
+    },
+    {
+        "address": "0x4f23b97445d217450603e46c512aa827f72b97f7",
+        "value": 237.239438,
+        "time": "2022-04-19T17:09:31Z"
+    },
+    {
+        "address": "0x4f23b97445d217450603e46c512aa827f72b97f7",
+        "value": 245.144834,
+        "time": "2022-04-19T17:02:28Z"
+    },
+    {
+        "address": "0x7033b2fa2f11d61896d86d78d0d4022b306b5f03",
+        "value": 657.598238,
+        "time": "2022-04-19T16:48:38Z"
+    },
+    {
+        "address": "0xf71c64570efebf2ecbbb728e25c4e9ba5e4169b5",
+        "value": 471.246089,
+        "time": "2022-04-19T16:47:56Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 882.391627,
+        "time": "2022-04-19T16:47:10Z"
+    },
+    {
+        "address": "0x4f23b97445d217450603e46c512aa827f72b97f7",
+        "value": 252.365061,
+        "time": "2022-04-19T16:43:27Z"
+    },
+    {
+        "address": "0x4f23b97445d217450603e46c512aa827f72b97f7",
+        "value": 257.932712,
+        "time": "2022-04-19T16:40:08Z"
+    },
+    {
+        "address": "0x4f23b97445d217450603e46c512aa827f72b97f7",
+        "value": 262.644393,
+        "time": "2022-04-19T16:34:34Z"
+    },
+    {
+        "address": "0x4f23b97445d217450603e46c512aa827f72b97f7",
+        "value": 262.545634,
+        "time": "2022-04-19T16:33:32Z"
+    },
+    {
+        "address": "0x4f23b97445d217450603e46c512aa827f72b97f7",
+        "value": 264.563014,
+        "time": "2022-04-19T16:30:04Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 1999.94,
+        "time": "2022-04-19T15:44:43Z"
+    },
+    {
+        "address": "0x7033b2fa2f11d61896d86d78d0d4022b306b5f03",
+        "value": 674.249258,
+        "time": "2022-04-19T15:15:43Z"
+    },
+    {
+        "address": "0xf71c64570efebf2ecbbb728e25c4e9ba5e4169b5",
+        "value": 507.996169,
+        "time": "2022-04-19T15:11:05Z"
+    },
+    {
+        "address": "0x4f23b97445d217450603e46c512aa827f72b97f7",
+        "value": 261.672989,
+        "time": "2022-04-19T15:11:05Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 875.434047,
+        "time": "2022-04-19T15:10:45Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 11613.452925,
+        "time": "2022-04-19T15:07:49Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 11687.451485,
+        "time": "2022-04-19T15:02:47Z"
+    },
+    {
+        "address": "0xa3872bb17bed808915c5594814d127864e310b1b",
+        "value": 3963.051725,
+        "time": "2022-04-19T15:01:27Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 11752.893833,
+        "time": "2022-04-19T15:01:19Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 11827.444766,
+        "time": "2022-04-19T15:00:11Z"
+    },
+    {
+        "address": "0xa3872bb17bed808915c5594814d127864e310b1b",
+        "value": 3893.014575,
+        "time": "2022-04-19T14:59:20Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 11893.594607,
+        "time": "2022-04-19T14:58:50Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 11968.87163,
+        "time": "2022-04-19T14:56:08Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 12044.460102,
+        "time": "2022-04-19T14:54:42Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 12120.42203,
+        "time": "2022-04-19T14:53:09Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 12196.91039,
+        "time": "2022-04-19T14:51:48Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 12276.511469,
+        "time": "2022-04-19T14:48:40Z"
+    },
+    {
+        "address": "0x7033b2fa2f11d61896d86d78d0d4022b306b5f03",
+        "value": 671.974561,
+        "time": "2022-04-19T14:19:19Z"
+    },
+    {
+        "address": "0x4f23b97445d217450603e46c512aa827f72b97f7",
+        "value": 257.166455,
+        "time": "2022-04-19T14:17:39Z"
+    },
+    {
+        "address": "0x4f23b97445d217450603e46c512aa827f72b97f7",
+        "value": 280.602243,
+        "time": "2022-04-19T13:53:46Z"
+    },
+    {
+        "address": "0x7033b2fa2f11d61896d86d78d0d4022b306b5f03",
+        "value": 0.067788,
+        "time": "2022-04-19T13:49:35Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 1965.663,
+        "time": "2022-04-19T13:49:13Z"
+    },
+    {
+        "address": "0x7033b2fa2f11d61896d86d78d0d4022b306b5f03",
+        "value": 677.880657,
+        "time": "2022-04-19T13:44:46Z"
+    },
+    {
+        "address": "0xf71c64570efebf2ecbbb728e25c4e9ba5e4169b5",
+        "value": 506.520663,
+        "time": "2022-04-19T13:39:20Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 880.684877,
+        "time": "2022-04-19T13:36:52Z"
+    },
+    {
+        "address": "0x7033b2fa2f11d61896d86d78d0d4022b306b5f03",
+        "value": 685.694648,
+        "time": "2022-04-19T13:34:24Z"
+    },
+    {
+        "address": "0xf71c64570efebf2ecbbb728e25c4e9ba5e4169b5",
+        "value": 514.330186,
+        "time": "2022-04-19T13:33:33Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 896.255653,
+        "time": "2022-04-19T13:33:03Z"
+    },
+    {
+        "address": "0x4f23b97445d217450603e46c512aa827f72b97f7",
+        "value": 271.948193,
+        "time": "2022-04-19T13:31:58Z"
+    },
+    {
+        "address": "0xf71c64570efebf2ecbbb728e25c4e9ba5e4169b5",
+        "value": 522.340919,
+        "time": "2022-04-19T13:28:19Z"
+    },
+    {
+        "address": "0x7033b2fa2f11d61896d86d78d0d4022b306b5f03",
+        "value": 701.404383,
+        "time": "2022-04-19T13:27:09Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 901.203366,
+        "time": "2022-04-19T13:25:07Z"
+    },
+    {
+        "address": "0x4f23b97445d217450603e46c512aa827f72b97f7",
+        "value": 296.179149,
+        "time": "2022-04-19T13:20:55Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 896.435105,
+        "time": "2022-04-19T13:20:45Z"
+    },
+    {
+        "address": "0x4f23b97445d217450603e46c512aa827f72b97f7",
+        "value": 295.446189,
+        "time": "2022-04-19T13:14:42Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 896.266124,
+        "time": "2022-04-19T13:13:16Z"
+    },
+    {
+        "address": "0xf71c64570efebf2ecbbb728e25c4e9ba5e4169b5",
+        "value": 507.610849,
+        "time": "2022-04-19T13:09:32Z"
+    },
+    {
+        "address": "0xf71c64570efebf2ecbbb728e25c4e9ba5e4169b5",
+        "value": 505.812209,
+        "time": "2022-04-19T12:50:46Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 778.222952,
+        "time": "2022-04-19T12:48:05Z"
+    },
+    {
+        "address": "0xa3872bb17bed808915c5594814d127864e310b1b",
+        "value": 3889.477938,
+        "time": "2022-04-19T12:45:42Z"
+    },
+    {
+        "address": "0x4f23b97445d217450603e46c512aa827f72b97f7",
+        "value": 300.543672,
+        "time": "2022-04-19T12:42:22Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 1468.099043,
+        "time": "2022-04-19T12:36:04Z"
+    },
+    {
+        "address": "0x4f23b97445d217450603e46c512aa827f72b97f7",
+        "value": 302,
+        "time": "2022-04-19T12:31:02Z"
+    },
+    {
+        "address": "0xe8442474d584980ca24564d9b2d6151fb81ceacd",
+        "value": 698.982168,
+        "time": "2022-04-19T12:27:27Z"
+    },
+    {
+        "address": "0x4f23b97445d217450603e46c512aa827f72b97f7",
+        "value": 307.233728,
+        "time": "2022-04-19T12:18:35Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 1398.272639,
+        "time": "2022-04-19T12:17:41Z"
+    },
+    {
+        "address": "0x4f23b97445d217450603e46c512aa827f72b97f7",
+        "value": 279,
+        "time": "2022-04-19T12:09:43Z"
+    },
+    {
+        "address": "0x4f23b97445d217450603e46c512aa827f72b97f7",
+        "value": 188,
+        "time": "2022-04-19T12:03:34Z"
+    },
+    {
+        "address": "0x4f23b97445d217450603e46c512aa827f72b97f7",
+        "value": 99,
+        "time": "2022-04-19T12:00:20Z"
+    },
+    {
+        "address": "0x4f23b97445d217450603e46c512aa827f72b97f7",
+        "value": 55,
+        "time": "2022-04-19T11:59:56Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 730.374887,
+        "time": "2022-04-19T11:55:56Z"
+    },
+    {
+        "address": "0xe8442474d584980ca24564d9b2d6151fb81ceacd",
+        "value": 233.466588,
+        "time": "2022-04-19T11:48:00Z"
+    },
+    {
+        "address": "0x3b0c44644911896a4ddc8329146bae1e95865b3b",
+        "value": 7374.954397,
+        "time": "2022-04-19T11:45:47Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 1319.730711,
+        "time": "2022-04-19T11:27:51Z"
+    },
+    {
+        "address": "0xe8442474d584980ca24564d9b2d6151fb81ceacd",
+        "value": 232.858293,
+        "time": "2022-04-19T11:17:36Z"
+    },
+    {
+        "address": "0xe8442474d584980ca24564d9b2d6151fb81ceacd",
+        "value": 155.42214,
+        "time": "2022-04-19T10:53:46Z"
+    },
+    {
+        "address": "0xe8442474d584980ca24564d9b2d6151fb81ceacd",
+        "value": 233.259074,
+        "time": "2022-04-19T10:49:05Z"
+    },
+    {
+        "address": "0xe8442474d584980ca24564d9b2d6151fb81ceacd",
+        "value": 700.766534,
+        "time": "2022-04-19T10:45:43Z"
+    },
+    {
+        "address": "0xdf1026108a2ee0c026d78b0ed0845ee3d3111ca7",
+        "value": 5000,
+        "time": "2022-04-19T10:29:34Z"
+    },
+    {
+        "address": "0xe9b194a97778be1cd9f8b7637a128c6a5c6c7c26",
+        "value": 8898.880995,
+        "time": "2022-04-19T10:26:14Z"
+    },
+    {
+        "address": "0xaccdae8e1d18bdff9ce23a26bec2265b719833ce",
+        "value": 8923,
+        "time": "2022-04-19T10:19:48Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 231.087928,
+        "time": "2022-04-19T10:03:12Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 1077.544816,
+        "time": "2022-04-19T10:00:51Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 155.499,
+        "time": "2022-04-19T07:14:07Z"
+    },
+    {
+        "address": "0xa3872bb17bed808915c5594814d127864e310b1b",
+        "value": 8494.84056,
+        "time": "2022-04-19T07:09:51Z"
+    },
+    {
+        "address": "0xea1cc097a0ca8e572a541ab096b5c4ba0298244a",
+        "value": 1200,
+        "time": "2022-04-19T05:56:34Z"
+    },
+    {
+        "address": "0x543123da55aea5160cff8b19553580a979f10c37",
+        "value": 399,
+        "time": "2022-04-18T22:07:53Z"
+    },
+    {
+        "address": "0xa3872bb17bed808915c5594814d127864e310b1b",
+        "value": 15411.77119,
+        "time": "2022-04-18T21:40:23Z"
+    },
+    {
+        "address": "0xa3872bb17bed808915c5594814d127864e310b1b",
+        "value": 7727.691851,
+        "time": "2022-04-18T21:37:51Z"
+    },
+    {
+        "address": "0x9de4fad7ce3b37dbe210f0fd4b5cceaa53355347",
+        "value": 0.1,
+        "time": "2022-04-18T17:56:52Z"
+    },
+    {
+        "address": "0x9de4fad7ce3b37dbe210f0fd4b5cceaa53355347",
+        "value": 1504.390716,
+        "time": "2022-04-18T17:38:27Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 603.41359,
+        "time": "2022-04-18T17:37:21Z"
+    },
+    {
+        "address": "0xea1cc097a0ca8e572a541ab096b5c4ba0298244a",
+        "value": 10242.585575,
+        "time": "2022-04-18T17:37:15Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 11205.79717,
+        "time": "2022-04-18T17:36:32Z"
+    },
+    {
+        "address": "0xea1cc097a0ca8e572a541ab096b5c4ba0298244a",
+        "value": 10335.859275,
+        "time": "2022-04-18T17:35:29Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 11248.97655,
+        "time": "2022-04-18T17:35:18Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 11319.68832,
+        "time": "2022-04-18T17:34:01Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 11390.903635,
+        "time": "2022-04-18T17:33:03Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 11462.210729,
+        "time": "2022-04-18T17:32:02Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 11533.559731,
+        "time": "2022-04-18T17:31:12Z"
+    },
+    {
+        "address": "0x1e3bdf375a1db8359d3e94c0ef940c650830a460",
+        "value": 11605.439116,
+        "time": "2022-04-18T17:30:24Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 626,
+        "time": "2022-04-18T17:29:18Z"
+    },
+    {
+        "address": "0xea1cc097a0ca8e572a541ab096b5c4ba0298244a",
+        "value": 10357.146428,
+        "time": "2022-04-18T17:20:18Z"
+    },
+    {
+        "address": "0xea1cc097a0ca8e572a541ab096b5c4ba0298244a",
+        "value": 9712.516351,
+        "time": "2022-04-18T17:08:12Z"
+    },
+    {
+        "address": "0xea1cc097a0ca8e572a541ab096b5c4ba0298244a",
+        "value": 9704.725846,
+        "time": "2022-04-18T16:35:11Z"
+    },
+    {
+        "address": "0xea1cc097a0ca8e572a541ab096b5c4ba0298244a",
+        "value": 9764.664427,
+        "time": "2022-04-18T16:22:55Z"
+    },
+    {
+        "address": "0x543123da55aea5160cff8b19553580a979f10c37",
+        "value": 520,
+        "time": "2022-04-18T16:21:18Z"
+    },
+    {
+        "address": "0xea1cc097a0ca8e572a541ab096b5c4ba0298244a",
+        "value": 9822.95554,
+        "time": "2022-04-18T16:06:07Z"
+    },
+    {
+        "address": "0xe5403650d87c098b6720584996ad9c0b062feb8c",
+        "value": 1731.2127,
+        "time": "2022-04-18T15:56:24Z"
+    },
+    {
+        "address": "0xe5403650d87c098b6720584996ad9c0b062feb8c",
+        "value": 1812.3837,
+        "time": "2022-04-18T15:50:31Z"
+    },
+    {
+        "address": "0x543123da55aea5160cff8b19553580a979f10c37",
+        "value": 438,
+        "time": "2022-04-18T15:40:30Z"
+    },
+    {
+        "address": "0x29ac1ace40f6051758739276a8aa152a42fbf544",
+        "value": 1013.9852,
+        "time": "2022-04-18T15:30:55Z"
+    },
+    {
+        "address": "0x29ac1ace40f6051758739276a8aa152a42fbf544",
+        "value": 146.1518,
+        "time": "2022-04-18T15:24:19Z"
+    },
+    {
+        "address": "0xea1cc097a0ca8e572a541ab096b5c4ba0298244a",
+        "value": 9902.348695,
+        "time": "2022-04-18T15:02:32Z"
+    },
+    {
+        "address": "0xea1cc097a0ca8e572a541ab096b5c4ba0298244a",
+        "value": 9923.359381,
+        "time": "2022-04-18T14:21:10Z"
+    },
+    {
+        "address": "0x543123da55aea5160cff8b19553580a979f10c37",
+        "value": 375.1,
+        "time": "2022-04-18T14:13:56Z"
+    },
+    {
+        "address": "0xea1cc097a0ca8e572a541ab096b5c4ba0298244a",
+        "value": 9938,
+        "time": "2022-04-18T13:58:17Z"
+    },
+    {
+        "address": "0xea1cc097a0ca8e572a541ab096b5c4ba0298244a",
+        "value": 10013.7,
+        "time": "2022-04-18T13:53:05Z"
+    },
+    {
+        "address": "0xea1cc097a0ca8e572a541ab096b5c4ba0298244a",
+        "value": 10099.792056,
+        "time": "2022-04-18T13:48:01Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 615,
+        "time": "2022-04-18T12:13:43Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 616.574959,
+        "time": "2022-04-18T08:55:19Z"
+    },
+    {
+        "address": "0x543123da55aea5160cff8b19553580a979f10c37",
+        "value": 500,
+        "time": "2022-04-18T06:40:45Z"
+    },
+    {
+        "address": "0xea1cc097a0ca8e572a541ab096b5c4ba0298244a",
+        "value": 1162.2,
+        "time": "2022-04-17T20:02:18Z"
+    },
+    {
+        "address": "0x29ac1ace40f6051758739276a8aa152a42fbf544",
+        "value": 336.8516,
+        "time": "2022-04-17T19:01:26Z"
+    },
+    {
+        "address": "0x543123da55aea5160cff8b19553580a979f10c37",
+        "value": 888,
+        "time": "2022-04-17T18:43:41Z"
+    },
+    {
+        "address": "0x29ac1ace40f6051758739276a8aa152a42fbf544",
+        "value": 5.4171,
+        "time": "2022-04-17T17:54:18Z"
+    },
+    {
+        "address": "0xe5403650d87c098b6720584996ad9c0b062feb8c",
+        "value": 1868.0186,
+        "time": "2022-04-17T17:51:37Z"
+    },
+    {
+        "address": "0x29ac1ace40f6051758739276a8aa152a42fbf544",
+        "value": 313.5241,
+        "time": "2022-04-17T17:48:09Z"
+    },
+    {
+        "address": "0xddb4c077f570062c536cdf6ad161ea2efae3424d",
+        "value": 156.193322,
+        "time": "2022-04-17T17:28:54Z"
+    },
+    {
+        "address": "0xddb4c077f570062c536cdf6ad161ea2efae3424d",
+        "value": 156.441235,
+        "time": "2022-04-17T17:27:02Z"
+    },
+    {
+        "address": "0xddb4c077f570062c536cdf6ad161ea2efae3424d",
+        "value": 156.45404,
+        "time": "2022-04-17T17:25:16Z"
+    },
+    {
+        "address": "0xea1cc097a0ca8e572a541ab096b5c4ba0298244a",
+        "value": 31553.6,
+        "time": "2022-04-17T17:15:45Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 586,
+        "time": "2022-04-17T17:04:29Z"
+    },
+    {
+        "address": "0xea1cc097a0ca8e572a541ab096b5c4ba0298244a",
+        "value": 31473.6,
+        "time": "2022-04-17T16:50:38Z"
+    },
+    {
+        "address": "0x543123da55aea5160cff8b19553580a979f10c37",
+        "value": 2400,
+        "time": "2022-04-17T16:44:17Z"
+    },
+    {
+        "address": "0xea1cc097a0ca8e572a541ab096b5c4ba0298244a",
+        "value": 11807,
+        "time": "2022-04-17T16:39:01Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 623,
+        "time": "2022-04-17T15:42:21Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 623,
+        "time": "2022-04-17T15:40:19Z"
+    },
+    {
+        "address": "0x29ac1ace40f6051758739276a8aa152a42fbf544",
+        "value": 0.0243,
+        "time": "2022-04-17T15:32:46Z"
+    },
+    {
+        "address": "0x29ac1ace40f6051758739276a8aa152a42fbf544",
+        "value": 243.465514,
+        "time": "2022-04-17T15:31:59Z"
+    },
+    {
+        "address": "0x769e2e9b48a50916a70b129fec2f57ec2bd52ef8",
+        "value": 11645.85,
+        "time": "2022-04-17T15:27:15Z"
+    },
+    {
+        "address": "0x29ac1ace40f6051758739276a8aa152a42fbf544",
+        "value": 247.2679,
+        "time": "2022-04-17T15:21:11Z"
+    },
+    {
+        "address": "0x769e2e9b48a50916a70b129fec2f57ec2bd52ef8",
+        "value": 10000,
+        "time": "2022-04-17T14:41:42Z"
+    },
+    {
+        "address": "0xddb4c077f570062c536cdf6ad161ea2efae3424d",
+        "value": 155.5,
+        "time": "2022-04-17T14:29:43Z"
+    },
+    {
+        "address": "0x769e2e9b48a50916a70b129fec2f57ec2bd52ef8",
+        "value": 1012.08,
+        "time": "2022-04-17T13:35:29Z"
+    },
+    {
+        "address": "0x769e2e9b48a50916a70b129fec2f57ec2bd52ef8",
+        "value": 77.87,
+        "time": "2022-04-17T13:32:23Z"
+    },
+    {
+        "address": "0x769e2e9b48a50916a70b129fec2f57ec2bd52ef8",
+        "value": 21889.53,
+        "time": "2022-04-17T13:15:29Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 619,
+        "time": "2022-04-17T13:09:37Z"
+    },
+    {
+        "address": "0x769e2e9b48a50916a70b129fec2f57ec2bd52ef8",
+        "value": 10000,
+        "time": "2022-04-17T12:50:23Z"
+    },
+    {
+        "address": "0x9de4fad7ce3b37dbe210f0fd4b5cceaa53355347",
+        "value": 2273.834,
+        "time": "2022-04-17T12:48:46Z"
+    },
+    {
+        "address": "0x769e2e9b48a50916a70b129fec2f57ec2bd52ef8",
+        "value": 22440,
+        "time": "2022-04-17T12:45:43Z"
+    },
+    {
+        "address": "0x769e2e9b48a50916a70b129fec2f57ec2bd52ef8",
+        "value": 22574.6926,
+        "time": "2022-04-17T12:43:01Z"
+    },
+    {
+        "address": "0x9de4fad7ce3b37dbe210f0fd4b5cceaa53355347",
+        "value": 2290.5429,
+        "time": "2022-04-17T12:40:19Z"
+    },
+    {
+        "address": "0x769e2e9b48a50916a70b129fec2f57ec2bd52ef8",
+        "value": 22697.39,
+        "time": "2022-04-17T12:40:09Z"
+    },
+    {
+        "address": "0x543123da55aea5160cff8b19553580a979f10c37",
+        "value": 1485,
+        "time": "2022-04-17T12:38:13Z"
+    },
+    {
+        "address": "0x769e2e9b48a50916a70b129fec2f57ec2bd52ef8",
+        "value": 22865.1367,
+        "time": "2022-04-17T12:36:54Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 618,
+        "time": "2022-04-17T12:28:54Z"
+    },
+    {
+        "address": "0xddb4c077f570062c536cdf6ad161ea2efae3424d",
+        "value": 154.69,
+        "time": "2022-04-17T12:15:53Z"
+    },
+    {
+        "address": "0xddb4c077f570062c536cdf6ad161ea2efae3424d",
+        "value": 154.5,
+        "time": "2022-04-17T12:12:07Z"
+    },
+    {
+        "address": "0x5f34461f73656d26a0afb113d736c80217224fee",
+        "value": 1000,
+        "time": "2022-04-17T12:12:01Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 619,
+        "time": "2022-04-17T12:07:17Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 618,
+        "time": "2022-04-17T12:05:07Z"
+    },
+    {
+        "address": "0x5f34461f73656d26a0afb113d736c80217224fee",
+        "value": 1000,
+        "time": "2022-04-17T12:04:57Z"
+    },
+    {
+        "address": "0xddb4c077f570062c536cdf6ad161ea2efae3424d",
+        "value": 154.56,
+        "time": "2022-04-17T12:01:13Z"
+    },
+    {
+        "address": "0x5f34461f73656d26a0afb113d736c80217224fee",
+        "value": 1004.55787,
+        "time": "2022-04-17T12:00:52Z"
+    },
+    {
+        "address": "0x4191e79842d707e3cd17a13f966886c74ac9c185",
+        "value": 77.43,
+        "time": "2022-04-17T11:44:24Z"
+    },
+    {
+        "address": "0x5f34461f73656d26a0afb113d736c80217224fee",
+        "value": 300,
+        "time": "2022-04-17T11:36:33Z"
+    },
+    {
+        "address": "0x5f34461f73656d26a0afb113d736c80217224fee",
+        "value": 309.11722,
+        "time": "2022-04-17T11:24:37Z"
+    },
+    {
+        "address": "0xe5403650d87c098b6720584996ad9c0b062feb8c",
+        "value": 1921.0908,
+        "time": "2022-04-17T11:00:34Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 617,
+        "time": "2022-04-17T10:14:21Z"
+    },
+    {
+        "address": "0x5f34461f73656d26a0afb113d736c80217224fee",
+        "value": 350,
+        "time": "2022-04-17T10:13:56Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 618,
+        "time": "2022-04-17T10:13:10Z"
+    },
+    {
+        "address": "0x5f34461f73656d26a0afb113d736c80217224fee",
+        "value": 370,
+        "time": "2022-04-17T10:12:24Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 617,
+        "time": "2022-04-17T10:11:54Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 619,
+        "time": "2022-04-17T10:10:18Z"
+    },
+    {
+        "address": "0x46fca77625e4efcafdb5027581d253edbadd0dda",
+        "value": 1150,
+        "time": "2022-04-17T09:57:53Z"
+    },
+    {
+        "address": "0x46fca77625e4efcafdb5027581d253edbadd0dda",
+        "value": 350,
+        "time": "2022-04-17T09:52:25Z"
+    },
+    {
+        "address": "0x5f34461f73656d26a0afb113d736c80217224fee",
+        "value": 386.90462,
+        "time": "2022-04-17T09:47:16Z"
+    },
+    {
+        "address": "0x5f34461f73656d26a0afb113d736c80217224fee",
+        "value": 386,
+        "time": "2022-04-17T09:41:26Z"
+    },
+    {
+        "address": "0x5f34461f73656d26a0afb113d736c80217224fee",
+        "value": 380,
+        "time": "2022-04-17T09:30:53Z"
+    },
+    {
+        "address": "0x46fca77625e4efcafdb5027581d253edbadd0dda",
+        "value": 3248,
+        "time": "2022-04-17T09:22:24Z"
+    },
+    {
+        "address": "0x543123da55aea5160cff8b19553580a979f10c37",
+        "value": 836,
+        "time": "2022-04-17T09:17:29Z"
+    },
+    {
+        "address": "0x5f34461f73656d26a0afb113d736c80217224fee",
+        "value": 154.57392,
+        "time": "2022-04-17T09:13:55Z"
+    },
+    {
+        "address": "0x97e61806a384571991b776478073af7f290ae018",
+        "value": 1929.3955,
+        "time": "2022-04-17T05:46:53Z"
+    },
+    {
+        "address": "0xe5403650d87c098b6720584996ad9c0b062feb8c",
+        "value": 617.193,
+        "time": "2022-04-17T04:48:51Z"
+    },
+    {
+        "address": "0x2f72d58e96cf75811870057f1b9b7fcaa4a229ca",
+        "value": 182.25,
+        "time": "2022-04-17T03:57:14Z"
+    },
+    {
+        "address": "0x5d7c19659c548a1459a86a380e59cfdf123c9e2a",
+        "value": 33.63,
+        "time": "2022-04-17T03:09:02Z"
+    },
+    {
+        "address": "0x2f72d58e96cf75811870057f1b9b7fcaa4a229ca",
+        "value": 190.25,
+        "time": "2022-04-17T00:40:19Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 620,
+        "time": "2022-04-16T23:50:44Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 620,
+        "time": "2022-04-16T23:31:06Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 699,
+        "time": "2022-04-16T22:43:58Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 698,
+        "time": "2022-04-16T22:42:38Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 699,
+        "time": "2022-04-16T22:41:16Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 699,
+        "time": "2022-04-16T22:39:21Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 698,
+        "time": "2022-04-16T22:35:17Z"
+    },
+    {
+        "address": "0xe5403650d87c098b6720584996ad9c0b062feb8c",
+        "value": 718.2902,
+        "time": "2022-04-16T22:24:05Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 698,
+        "time": "2022-04-16T22:05:34Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 697,
+        "time": "2022-04-16T22:04:23Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 697,
+        "time": "2022-04-16T22:03:14Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 696,
+        "time": "2022-04-16T22:02:01Z"
+    },
+    {
+        "address": "0x7cb285474d2d33522f29d7f98ebedb95f3f5d880",
+        "value": 696,
+        "time": "2022-04-16T21:39:24Z"
+    },
+    {
+        "address": "0x29ac1ace40f6051758739276a8aa152a42fbf544",
+        "value": 1459.94,
+        "time": "2022-04-16T20:30:01Z"
+    },
+    {
+        "address": "0x9b6616ac6e8c8e0dff20c5fe1cc2dea77c0f49f3",
+        "value": 133.9792,
+        "time": "2022-04-16T19:30:02Z"
+    },
+    {
+        "address": "0x29ac1ace40f6051758739276a8aa152a42fbf544",
+        "value": 1471.9684,
+        "time": "2022-04-16T19:13:08Z"
+    },
+    {
+        "address": "0x29ac1ace40f6051758739276a8aa152a42fbf544",
+        "value": 1504.24744,
+        "time": "2022-04-16T18:21:43Z"
+    },
+    {
+        "address": "0x4f366963f8bb81e49ded84a4e74d3c18468d2920",
+        "value": 612,
+        "time": "2022-04-16T18:14:38Z"
+    },
+    {
+        "address": "0x29ac1ace40f6051758739276a8aa152a42fbf544",
+        "value": 1497.399472,
+        "time": "2022-04-16T18:12:29Z"
+    },
+    {
+        "address": "0x4f366963f8bb81e49ded84a4e74d3c18468d2920",
+        "value": 612,
+        "time": "2022-04-16T18:09:03Z"
+    },
+    {
+        "address": "0x4f366963f8bb81e49ded84a4e74d3c18468d2920",
+        "value": 612,
+        "time": "2022-04-16T18:06:42Z"
+    },
+    {
+        "address": "0x4f366963f8bb81e49ded84a4e74d3c18468d2920",
+        "value": 612,
+        "time": "2022-04-16T18:02:52Z"
+    },
+    {
+        "address": "0xa23e4caf4562856038b2dafde88f1d768fb123c7",
+        "value": 7.6553,
+        "time": "2022-04-16T17:57:48Z"
+    },
+    {
+        "address": "0x4f366963f8bb81e49ded84a4e74d3c18468d2920",
+        "value": 267,
+        "time": "2022-04-16T17:56:58Z"
+    },
+    {
+        "address": "0x64454fb0cd4861e55da09e032424841927740ee5",
+        "value": 762,
+        "time": "2022-04-16T17:47:54Z"
+    },
+    {
+        "address": "0x807b755d5374769dd5282a05ebaca84ca70af607",
+        "value": 1524,
+        "time": "2022-04-16T17:46:38Z"
+    },
+    {
+        "address": "0xea1cc097a0ca8e572a541ab096b5c4ba0298244a",
+        "value": 15361.379,
+        "time": "2022-04-16T17:46:18Z"
+    },
+    {
+        "address": "0xa23e4caf4562856038b2dafde88f1d768fb123c7",
+        "value": 76.5107,
+        "time": "2022-04-16T17:44:08Z"
+    },
+    {
+        "address": "0x29ac1ace40f6051758739276a8aa152a42fbf544",
+        "value": 0.146,
+        "time": "2022-04-16T17:42:26Z"
+    },
+    {
+        "address": "0xea1cc097a0ca8e572a541ab096b5c4ba0298244a",
+        "value": 15459.701579,
+        "time": "2022-04-16T17:41:05Z"
+    },
+    {
+        "address": "0xea1cc097a0ca8e572a541ab096b5c4ba0298244a",
+        "value": 15560.347214,
+        "time": "2022-04-16T17:35:22Z"
+    },
+    {
+        "address": "0x543123da55aea5160cff8b19553580a979f10c37",
+        "value": 2280,
+        "time": "2022-04-16T17:33:12Z"
+    },
+    {
+        "address": "0xea1cc097a0ca8e572a541ab096b5c4ba0298244a",
+        "value": 15616.85,
+        "time": "2022-04-16T17:27:20Z"
+    },
+    {
+        "address": "0x29ac1ace40f6051758739276a8aa152a42fbf544",
+        "value": 1451.94,
+        "time": "2022-04-16T17:12:57Z"
+    },
+    {
+        "address": "0xea1cc097a0ca8e572a541ab096b5c4ba0298244a",
+        "value": 15778,
+        "time": "2022-04-16T16:34:05Z"
+    },
+    {
+        "address": "0xea1cc097a0ca8e572a541ab096b5c4ba0298244a",
+        "value": 15877.06,
+        "time": "2022-04-16T16:26:34Z"
+    },
+    {
+        "address": "0xea1cc097a0ca8e572a541ab096b5c4ba0298244a",
+        "value": 15976,
+        "time": "2022-04-16T16:23:24Z"
+    },
+    {
+        "address": "0xea1cc097a0ca8e572a541ab096b5c4ba0298244a",
+        "value": 16123.19,
+        "time": "2022-04-16T16:06:52Z"
+    },
+    {
+        "address": "0x543123da55aea5160cff8b19553580a979f10c37",
+        "value": 2300,
+        "time": "2022-04-16T15:29:40Z"
+    },
+    {
+        "address": "0x807b755d5374769dd5282a05ebaca84ca70af607",
+        "value": 77.29,
+        "time": "2022-04-16T14:07:38Z"
+    },
+    {
+        "address": "0xddb4c077f570062c536cdf6ad161ea2efae3424d",
+        "value": 154.88,
+        "time": "2022-04-16T13:42:38Z"
+    },
+    {
+        "address": "0xddb4c077f570062c536cdf6ad161ea2efae3424d",
+        "value": 154.86,
+        "time": "2022-04-16T13:40:28Z"
+    },
+    {
+        "address": "0xdb415627ca0427f9a195f1033a22b9df830e8727",
+        "value": 61,
+        "time": "2022-04-16T10:43:33Z"
+    },
+    {
+        "address": "0x97e61806a384571991b776478073af7f290ae018",
+        "value": 1352.3773,
+        "time": "2022-04-16T10:34:38Z"
+    },
+    {
+        "address": "0x97e61806a384571991b776478073af7f290ae018",
+        "value": 1375.294,
+        "time": "2022-04-16T10:32:52Z"
+    },
+    {
+        "address": "0x97e61806a384571991b776478073af7f290ae018",
+        "value": 1375.294,
+        "time": "2022-04-16T10:31:18Z"
+    },
+    {
+        "address": "0x97e61806a384571991b776478073af7f290ae018",
+        "value": 1375.022,
+        "time": "2022-04-16T10:30:19Z"
+    },
+    {
+        "address": "0x97e61806a384571991b776478073af7f290ae018",
+        "value": 1375.0263,
+        "time": "2022-04-16T10:28:47Z"
+    },
+    {
+        "address": "0x97e61806a384571991b776478073af7f290ae018",
+        "value": 1405.5762,
+        "time": "2022-04-16T10:27:38Z"
+    },
+    {
+        "address": "0x97e61806a384571991b776478073af7f290ae018",
+        "value": 1405.583,
+        "time": "2022-04-16T10:26:31Z"
+    },
+    {
+        "address": "0x97e61806a384571991b776478073af7f290ae018",
+        "value": 1413.28,
+        "time": "2022-04-16T10:25:26Z"
+    },
+    {
+        "address": "0x97e61806a384571991b776478073af7f290ae018",
+        "value": 1421.2,
+        "time": "2022-04-16T10:23:47Z"
+    },
+    {
+        "address": "0x97e61806a384571991b776478073af7f290ae018",
+        "value": 1451,
+        "time": "2022-04-16T10:22:38Z"
+    },
+    {
+        "address": "0x97e61806a384571991b776478073af7f290ae018",
+        "value": 1451.41,
+        "time": "2022-04-16T10:20:00Z"
+    },
+    {
+        "address": "0x97e61806a384571991b776478073af7f290ae018",
+        "value": 1451.411,
+        "time": "2022-04-16T10:18:41Z"
+    },
+    {
+        "address": "0x97e61806a384571991b776478073af7f290ae018",
+        "value": 1451.418,
+        "time": "2022-04-16T10:16:55Z"
+    },
+    {
+        "address": "0x97e61806a384571991b776478073af7f290ae018",
+        "value": 1451.41,
+        "time": "2022-04-16T10:15:49Z"
+    },
+    {
+        "address": "0x97e61806a384571991b776478073af7f290ae018",
+        "value": 1451.42,
+        "time": "2022-04-16T10:13:59Z"
+    },
+    {
+        "address": "0x97e61806a384571991b776478073af7f290ae018",
+        "value": 1454.5,
+        "time": "2022-04-16T10:12:34Z"
+    },
+    {
+        "address": "0x97e61806a384571991b776478073af7f290ae018",
+        "value": 1454.517,
+        "time": "2022-04-16T10:09:48Z"
+    },
+    {
+        "address": "0x97e61806a384571991b776478073af7f290ae018",
+        "value": 1531.05,
+        "time": "2022-04-16T10:08:06Z"
+    },
+    {
+        "address": "0x97e61806a384571991b776478073af7f290ae018",
+        "value": 1531.06,
+        "time": "2022-04-16T10:05:19Z"
+    },
+    {
+        "address": "0x97e61806a384571991b776478073af7f290ae018",
+        "value": 1546.37,
+        "time": "2022-04-16T10:01:29Z"
+    },
+    {
+        "address": "0x97e61806a384571991b776478073af7f290ae018",
+        "value": 1579,
+        "time": "2022-04-16T09:59:23Z"
+    },
+    {
+        "address": "0x97e61806a384571991b776478073af7f290ae018",
+        "value": 1569.5,
+        "time": "2022-04-16T09:57:48Z"
+    },
+    {
+        "address": "0x97e61806a384571991b776478073af7f290ae018",
+        "value": 1569,
+        "time": "2022-04-16T09:56:13Z"
+    },
+    {
+        "address": "0xdf40fa9d2c1d9f95a046ad25d90b982f444f13ac",
+        "value": 382.869496,
+        "time": "2022-04-16T09:46:22Z"
+    },
+    {
+        "address": "0x6a4e7b2937201f8ec6889edc7f26f230d4970f8f",
+        "value": 229.27,
+        "time": "2022-04-16T03:19:15Z"
+    },
+    {
+        "address": "0xddb4c077f570062c536cdf6ad161ea2efae3424d",
+        "value": 153.05,
+        "time": "2022-04-16T03:10:10Z"
+    },
+    {
+        "address": "0xddb4c077f570062c536cdf6ad161ea2efae3424d",
+        "value": 76.66,
+        "time": "2022-04-16T03:07:20Z"
+    },
+    {
+        "address": "0xddb4c077f570062c536cdf6ad161ea2efae3424d",
+        "value": 153.45,
+        "time": "2022-04-16T02:55:08Z"
+    },
+    {
+        "address": "0xddb4c077f570062c536cdf6ad161ea2efae3424d",
+        "value": 76.5,
+        "time": "2022-04-16T02:48:00Z"
+    },
+    {
+        "address": "0x07130ca3f5bfe47ca77899ff34b83a08ba796d1f",
+        "value": 61.39,
+        "time": "2022-04-15T21:50:53Z"
+    },
+    {
+        "address": "0x07130ca3f5bfe47ca77899ff34b83a08ba796d1f",
+        "value": 65.226174,
+        "time": "2022-04-15T21:49:37Z"
+    },
+    {
+        "address": "0x07130ca3f5bfe47ca77899ff34b83a08ba796d1f",
+        "value": 65.92469,
+        "time": "2022-04-15T21:47:22Z"
+    },
+    {
+        "address": "0x543123da55aea5160cff8b19553580a979f10c37",
+        "value": 2300,
+        "time": "2022-04-15T21:20:18Z"
+    },
+    {
+        "address": "0x543123da55aea5160cff8b19553580a979f10c37",
+        "value": 2300,
+        "time": "2022-04-15T21:06:24Z"
+    },
+    {
+        "address": "0x2fe7ae157e07cdf2ff2620988d61dd76c6fc6feb",
+        "value": 266.9,
+        "time": "2022-04-15T20:51:38Z"
+    },
+    {
+        "address": "0x2fe7ae157e07cdf2ff2620988d61dd76c6fc6feb",
+        "value": 260,
+        "time": "2022-04-15T20:49:53Z"
+    },
+    {
+        "address": "0x2fe7ae157e07cdf2ff2620988d61dd76c6fc6feb",
+        "value": 270,
+        "time": "2022-04-15T20:48:33Z"
+    },
+    {
+        "address": "0x2fe7ae157e07cdf2ff2620988d61dd76c6fc6feb",
+        "value": 275,
+        "time": "2022-04-15T20:47:15Z"
+    },
+    {
+        "address": "0x2fe7ae157e07cdf2ff2620988d61dd76c6fc6feb",
+        "value": 275,
+        "time": "2022-04-15T20:45:29Z"
+    },
+    {
+        "address": "0x2fe7ae157e07cdf2ff2620988d61dd76c6fc6feb",
+        "value": 280,
+        "time": "2022-04-15T20:43:01Z"
+    },
+    {
+        "address": "0x2fe7ae157e07cdf2ff2620988d61dd76c6fc6feb",
+        "value": 280,
+        "time": "2022-04-15T20:41:35Z"
+    },
+    {
+        "address": "0x2fe7ae157e07cdf2ff2620988d61dd76c6fc6feb",
+        "value": 285,
+        "time": "2022-04-15T20:39:58Z"
+    },
+    {
+        "address": "0x2fe7ae157e07cdf2ff2620988d61dd76c6fc6feb",
+        "value": 290,
+        "time": "2022-04-15T20:38:38Z"
+    },
+    {
+        "address": "0x2fe7ae157e07cdf2ff2620988d61dd76c6fc6feb",
+        "value": 295,
+        "time": "2022-04-15T20:36:54Z"
+    },
+    {
+        "address": "0x2fe7ae157e07cdf2ff2620988d61dd76c6fc6feb",
+        "value": 295,
+        "time": "2022-04-15T20:35:16Z"
+    },
+    {
+        "address": "0x2fe7ae157e07cdf2ff2620988d61dd76c6fc6feb",
+        "value": 300,
+        "time": "2022-04-15T20:33:10Z"
+    },
+    {
+        "address": "0x2fe7ae157e07cdf2ff2620988d61dd76c6fc6feb",
+        "value": 300,
+        "time": "2022-04-15T20:31:32Z"
+    },
+    {
+        "address": "0x2fe7ae157e07cdf2ff2620988d61dd76c6fc6feb",
+        "value": 305,
+        "time": "2022-04-15T20:29:14Z"
+    },
+    {
+        "address": "0x2fe7ae157e07cdf2ff2620988d61dd76c6fc6feb",
+        "value": 310,
+        "time": "2022-04-15T20:27:54Z"
+    },
+    {
+        "address": "0x2fe7ae157e07cdf2ff2620988d61dd76c6fc6feb",
+        "value": 315,
+        "time": "2022-04-15T20:26:04Z"
+    },
+    {
+        "address": "0x2fe7ae157e07cdf2ff2620988d61dd76c6fc6feb",
+        "value": 320,
+        "time": "2022-04-15T20:24:20Z"
+    },
+    {
+        "address": "0x2fe7ae157e07cdf2ff2620988d61dd76c6fc6feb",
+        "value": 320,
+        "time": "2022-04-15T20:22:58Z"
+    },
+    {
+        "address": "0x2fe7ae157e07cdf2ff2620988d61dd76c6fc6feb",
+        "value": 330,
+        "time": "2022-04-15T20:21:44Z"
+    },
+    {
+        "address": "0x2fe7ae157e07cdf2ff2620988d61dd76c6fc6feb",
+        "value": 330,
+        "time": "2022-04-15T20:20:24Z"
+    },
+    {
+        "address": "0x2fe7ae157e07cdf2ff2620988d61dd76c6fc6feb",
+        "value": 340,
+        "time": "2022-04-15T20:18:34Z"
+    },
+    {
+        "address": "0x2fe7ae157e07cdf2ff2620988d61dd76c6fc6feb",
+        "value": 340,
+        "time": "2022-04-15T20:17:22Z"
+    },
+    {
+        "address": "0x2fe7ae157e07cdf2ff2620988d61dd76c6fc6feb",
+        "value": 345,
+        "time": "2022-04-15T20:15:54Z"
+    },
+    {
+        "address": "0x2fe7ae157e07cdf2ff2620988d61dd76c6fc6feb",
+        "value": 350,
+        "time": "2022-04-15T20:14:24Z"
+    },
+    {
+        "address": "0x2fe7ae157e07cdf2ff2620988d61dd76c6fc6feb",
+        "value": 360,
+        "time": "2022-04-15T20:12:36Z"
+    },
+    {
+        "address": "0x2fe7ae157e07cdf2ff2620988d61dd76c6fc6feb",
+        "value": 367,
+        "time": "2022-04-15T20:10:36Z"
+    },
+    {
+        "address": "0x543123da55aea5160cff8b19553580a979f10c37",
+        "value": 1528.51,
+        "time": "2022-04-15T20:08:05Z"
+    },
+    {
+        "address": "0xcc5ad357ebe9d676356dd478d8b49f477d10f667",
+        "value": 15.288267,
+        "time": "2022-04-15T19:53:42Z"
+    },
+    {
+        "address": "0x6a92b25fededd0e7ce4992d6f63cd93c72cb125a",
+        "value": 764.019,
+        "time": "2022-04-15T19:32:15Z"
+    },
+    {
+        "address": "0xa073bbf6026b8eb1dc9ae5254973381bf1a7338e",
+        "value": 38,
+        "time": "2022-04-15T19:22:35Z"
+    },
+    {
+        "address": "0xe4655131a4baef0a97ba098bd9d0723ffdba270a",
+        "value": 76,
+        "time": "2022-04-15T19:22:22Z"
+    },
+    {
+        "address": "0xbec643bd5b7f5e9190617ca4187ef0455950c51c",
+        "value": 3,
+        "time": "2022-04-15T19:01:28Z"
+    }
+]
